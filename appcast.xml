@@ -6,7 +6,10 @@
     <description>Auto-update feed for ExamSheet</description>
     <language>vi</language>
 
-  <item><title>Version 1.0.0</title><pubDate>Mon, 07 Sep 2026 14:14:36 +0700</pubDate><sparkle:version>1.0.0</sparkle:version><description><![CDATA[
+  <item><title>Version 1.0.1</title><pubDate>Mon, 07 Sep 2026 16:57:02 +0700</pubDate><sparkle:version>1.0.1</sparkle:version><description><![CDATA[
+        <h3>Version 1.0.1</h3>
+        <p>Đã có bản cho máy Mac (Apple Silicon và Intel). Sửa lỗi xuất PDF và in bị mất ảnh trong phiếu. Mức thu phóng trên màn hình không còn dính vào bản xuất ra. Thanh công cụ không còn tràn đè lên cột quảng cáo. Sắp xếp lại các nút ở trang Thông tin và trang Phiếu hoàn chỉnh cho dễ tìm hơn.</p>
+      ]]></description><enclosure url="https://github.com/viettien117/ExamSheet_Windows_updates/releases/download/v1.0.1/ExamSheet-1.0.1-x64.msi" length="43732628" type="application/octet-stream" sparkle:version="1.0.1" sparkle:os="windows" sparkle:edSignature="dfY9863OObK2mGA+yz0NGKrmrcJmwuiQWeIp12eNnzHkNA02qiEHzLci03flPRdU8Gd0j+afhnnHcGIn8P01Bg==" /></item><item><title>Version 1.0.0</title><pubDate>Mon, 07 Sep 2026 14:14:36 +0700</pubDate><sparkle:version>1.0.0</sparkle:version><description><![CDATA[
         <h3>Version 1.0.0</h3>
         <p>Bản phát hành đầu tiên. ExamSheet thiết kế phiếu trả lời trắc nghiệm để chấm bằng ExamScan: cấu hình lần lượt header thông tin thí sinh (kèm logo trường và ô chữ ký giám thị), khung bong bóng mã số sinh viên 7–10 chữ số, khung mã đề thi 2–3 chữ số, lưới trắc nghiệm tới 60 câu với 2–6 phương án, rồi ghép thành phiếu hoàn chỉnh. Từ 20 câu trở xuống có thể thêm phần tự luận kẻ dòng bên phải lưới. Xuất ra PNG, PDF, Word hoặc in thẳng ra máy in. Giao diện năm ngôn ngữ.</p>
       ]]></description><enclosure url="https://github.com/viettien117/ExamSheet_Windows_updates/releases/download/v1.0.0/ExamSheet-1.0.0-x64.msi" length="43740820" type="application/octet-stream" sparkle:version="1.0.0" sparkle:os="windows" sparkle:edSignature="eGUF433Zfn6Lyc92sOlO73yT4Es6F5ig2EvSm/LYXnNNwSrgvnsgaoEQsCE/3QmOjKfy6oDSzogSA+xRQPFsAw==" /></item></channel>
