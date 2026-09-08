@@ -6,7 +6,10 @@
     <description>Auto-update feed for ExamSheet</description>
     <language>vi</language>
 
-  <item><title>Version 1.0.1</title><pubDate>Mon, 07 Sep 2026 16:57:02 +0700</pubDate><sparkle:version>1.0.1</sparkle:version><description><![CDATA[
+  <item><title>Version 1.0.2</title><pubDate>Tue, 08 Sep 2026 12:40:33 +0700</pubDate><sparkle:version>1.0.2</sparkle:version><description><![CDATA[
+        <h3>Version 1.0.2</h3>
+        <p>Thêm dòng nhắc ở phần chọn logo: nên tránh logo tròn nhiều vòng đồng tâm (huy hiệu câu lạc bộ, con dấu nhà trường), vì bộ chấm của ExamScan có thể nhận nhầm chúng là dấu góc của phiếu. Dù lỗi đã được sửa tận gốc bên ExamScan, người dùng vẫn nên chấm thử một phiếu trước khi in cả xấp.</p>
+      ]]></description><enclosure url="https://github.com/viettien117/ExamSheet_Windows_updates/releases/download/v1.0.2/ExamSheet-1.0.2-x64.msi" length="43757204" type="application/octet-stream" sparkle:version="1.0.2" sparkle:os="windows" sparkle:edSignature="v2/k3fbcdt1J6ZSLBkiybkR1f696Rh2kiDnZqS3AzzQxCNQXvPd8McRFMxV+ZLmNJ57eq08QRISNsrpIB1WhCg==" /></item><item><title>Version 1.0.1</title><pubDate>Mon, 07 Sep 2026 16:57:02 +0700</pubDate><sparkle:version>1.0.1</sparkle:version><description><![CDATA[
         <h3>Version 1.0.1</h3>
         <p>Đã có bản cho máy Mac (Apple Silicon và Intel). Sửa lỗi xuất PDF và in bị mất ảnh trong phiếu. Mức thu phóng trên màn hình không còn dính vào bản xuất ra. Thanh công cụ không còn tràn đè lên cột quảng cáo. Sắp xếp lại các nút ở trang Thông tin và trang Phiếu hoàn chỉnh cho dễ tìm hơn.</p>
       ]]></description><enclosure url="https://github.com/viettien117/ExamSheet_Windows_updates/releases/download/v1.0.1/ExamSheet-1.0.1-x64.msi" length="43732628" type="application/octet-stream" sparkle:version="1.0.1" sparkle:os="windows" sparkle:edSignature="dfY9863OObK2mGA+yz0NGKrmrcJmwuiQWeIp12eNnzHkNA02qiEHzLci03flPRdU8Gd0j+afhnnHcGIn8P01Bg==" /></item><item><title>Version 1.0.0</title><pubDate>Mon, 07 Sep 2026 14:14:36 +0700</pubDate><sparkle:version>1.0.0</sparkle:version><description><![CDATA[
