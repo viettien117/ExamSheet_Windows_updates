@@ -6,7 +6,18 @@
     <description>Auto-update feed for ExamSheet</description>
     <language>vi</language>
 
-  <item><title>Version 1.0.4</title><pubDate>Tue, 15 Sep 2026 15:41:05 +0700</pubDate><sparkle:version>1.0.4</sparkle:version><description><![CDATA[
+  <item><title>Version 1.0.5</title><pubDate>Fri, 25 Sep 2026 12:04:27 +0700</pubDate><sparkle:version>1.0.5</sparkle:version><description><![CDATA[
+        <h3>Version 1.0.5</h3>
+        <p>Trang Phiếu hoàn chỉnh được thiết kế lại cho gọn và dễ dùng hơn.
+
+• Nút In phiếu và bốn nút Xuất PNG / PDF / Word / Xuất tất cả nằm chung một hàng, có biểu tượng. Cửa sổ hẹp thì các nút xuất tự thu lại chỉ còn biểu tượng (rê chuột để xem tên).
+• Bỏ nút Cập nhật phiếu: vào trang là phiếu tự vẽ lại theo mọi thay đổi.
+• Thanh thu phóng nổi ở đáy: Vừa ngang, Vừa dọc, Vừa khung, 100%, nút − / +. Rê chuột lên phiếu hiện bàn tay, giữ chuột để kéo phiếu như trình xem ảnh của Windows.
+• Bật Dùng logo mà chưa chọn ảnh thì phiếu dùng sẵn logo ExamScan kèm chữ ExamScan. Ô logo tối đa hình vuông nên logo không còn bị kéo dài.
+• Chữ Graded by ExamScan trên phiếu to hơn. Xuất PDF nhanh hơn nhiều (dưới 1 giây).
+• Ô Số câu hỏi ở bước 4 báo ngay khi gõ số ngoài 1–60 hoặc gõ chữ. Nếu số câu ở bước 4 không hợp lệ, trang Phiếu hoàn chỉnh nói rõ phiếu đang dùng bao nhiêu câu, để không in nhầm cả xấp phiếu.
+• Nút Mặc định ở trang Thông tin thẳng mép phải; menu ngôn ngữ xếp VI / EN / PT / ES / ID như các app khác của bộ Exam*; trang Giới thiệu đổi màu thống nhất cả bộ.</p>
+      ]]></description><enclosure url="https://github.com/viettien117/ExamSheet_Windows_updates/releases/download/v1.0.5/ExamSheet-1.0.5-x64.msi" length="44240794" type="application/octet-stream" sparkle:version="1.0.5" sparkle:os="windows" sparkle:edSignature="YyMMBHLN6j9sI0+uevPenBj+C+Rw6EK9ig2WFCRoRBerjCd92IKwbQ55hRPeStIO6VYt+eCNYpGh0Z0NKV1fDQ==" /></item><item><title>Version 1.0.4</title><pubDate>Tue, 15 Sep 2026 15:41:05 +0700</pubDate><sparkle:version>1.0.4</sparkle:version><description><![CDATA[
         <h3>Version 1.0.4</h3>
         <p>Trang Trắc nghiệm gọn và dễ dùng hơn. Mã đề chỉ còn 3 hoặc 4 chữ số, số đáp án từ 3 đến 6. Đổi số đáp án là khung vẽ lại ngay, không cần bấm Vẽ khung. Số dòng tự luận chọn từ 10 đến 15, khoảng cách giữa các dòng rộng gần gấp đôi cho dễ viết tay. Các ô cấu hình xếp lại thành hai hàng thẳng cột, nút Vẽ khung nằm bên phải.</p>
       ]]></description><enclosure url="https://github.com/viettien117/ExamSheet_Windows_updates/releases/download/v1.0.4/ExamSheet-1.0.4-x64.msi" length="43757204" type="application/octet-stream" sparkle:version="1.0.4" sparkle:os="windows" sparkle:edSignature="PQM3cp0u5s/3/et2pWBiQ8fT9E4Lf0NypbrdsU9Cva92e6EnwSQPWyoXP7ECayOe+ObVGiy/bwW6CJ0pQJSBBw==" /></item><item><title>Version 1.0.3</title><pubDate>Wed, 09 Sep 2026 09:24:54 +0700</pubDate><sparkle:version>1.0.3</sparkle:version><description><![CDATA[
