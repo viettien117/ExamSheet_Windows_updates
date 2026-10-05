@@ -6,7 +6,12 @@
     <description>Auto-update feed for ExamSheet</description>
     <language>vi</language>
 
-  <item><title>Version 1.0.6</title><pubDate>Fri, 25 Sep 2026 12:35:48 +0700</pubDate><sparkle:version>1.0.6</sparkle:version><description><![CDATA[
+  <item><title>Version 1.0.7</title><pubDate>Mon, 05 Oct 2026 10:58:28 +0700</pubDate><sparkle:version>1.0.7</sparkle:version><description><![CDATA[
+        <h3>Version 1.0.7</h3>
+        <p>• Tiêu đề khung Mã số sinh viên / Mã đề thi tự thu nhỏ chữ khi dài hơn khung, không còn bị cắt (ví dụ "CÓDIGO DEL EXAMEN" tiếng Tây Ban Nha ở mã đề 3 chữ số). Tiêu đề vừa khung thì phiếu giữ nguyên như cũ.
+• Thêm nút ‹ › ở hai mép khung quảng cáo để xem quảng cáo trước hoặc sau, không phải chờ tự chuyển.
+• Ảnh quảng cáo chỉ tải lại khi có thay đổi — mở chương trình tốn ít dung lượng mạng hơn.</p>
+      ]]></description><enclosure url="https://github.com/viettien117/ExamSheet_Windows_updates/releases/download/v1.0.7/ExamSheet-1.0.7-x64.msi" length="44232602" type="application/octet-stream" sparkle:version="1.0.7" sparkle:os="windows" sparkle:edSignature="YKjRZ+V497P0J9Gci9gEnBMUWUk845KOR4F2Rsi3K2Xy/5xycr6KIP4PL4oi+92AVpvW3Wm3aNa8CKx0XrM6AQ==" /></item><item><title>Version 1.0.6</title><pubDate>Fri, 25 Sep 2026 12:35:48 +0700</pubDate><sparkle:version>1.0.6</sparkle:version><description><![CDATA[
         <h3>Version 1.0.6</h3>
         <p>Sửa vài chỗ giao diện sau bản 1.0.5.
 
