@@ -6,7 +6,13 @@
     <description>Auto-update feed for ExamSheet</description>
     <language>vi</language>
 
-  <item><title>Version 1.0.11</title><pubDate>Tue, 10 Nov 2026 07:44:34 +0700</pubDate><sparkle:version>1.0.11</sparkle:version><description><![CDATA[
+  <item><title>Version 1.0.12</title><pubDate>Fri, 13 Nov 2026 12:11:08 +0700</pubDate><sparkle:version>1.0.12</sparkle:version><description><![CDATA[
+        <h3>Version 1.0.12</h3>
+        <p>Cập nhật khung quảng cáo.
+
+• Thêm khung quảng cáo ngang ở cuối cửa sổ, giống ExamScan.
+• Quảng cáo chỉ hiện đúng ngôn ngữ bạn đang dùng; đổi ngôn ngữ là đổi theo ngay.</p>
+      ]]></description><enclosure url="https://github.com/viettien117/ExamSheet_Windows_updates/releases/download/v1.0.12/ExamSheet-1.0.12-x64.msi" length="44257179" type="application/octet-stream" sparkle:version="1.0.12" sparkle:os="windows" sparkle:edSignature="YPVUG3l44ghx1tvNroS/ZJ6Lfx1H5+3t69au+lyGjn4vs+Fx26JSmBhG/S6BlB5WyW96+lLobyiZKLQC7tzOAg==" /></item><item><title>Version 1.0.11</title><pubDate>Tue, 10 Nov 2026 07:44:34 +0700</pubDate><sparkle:version>1.0.11</sparkle:version><description><![CDATA[
         <h3>Version 1.0.11</h3>
         <p>Cập nhật phần Giới thiệu.
 
